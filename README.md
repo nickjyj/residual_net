@@ -1,1 +1,1 @@
-# residual_net
+# Residual Network implemented by Pytorch
